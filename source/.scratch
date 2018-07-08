@@ -1,0 +1,6 @@
+Cannot embed direct HTML through markdown, need to fix this
+// maybe have a video option in the top of the YAML?
+
+look at the one that had a <sup></sup> in it
+Look at any that have direct video embeds
+need to handle embed responsively
