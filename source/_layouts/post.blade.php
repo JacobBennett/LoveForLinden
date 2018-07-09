@@ -19,11 +19,11 @@
 	<meta property="og:site_name" content="Love For Linden">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:url" content="{{ $page->getUrl() }}"/>  
-	<meta property="og:image" content="http://www.loveforlinden.com/assets/img/facebookshare.jpg"/>
+	<meta property="og:image" content="https://www.loveforlinden.com/assets/img/facebookshare.jpg"/>
 
 
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
-	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic|Open+Sans:700,400"/>
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic|Open+Sans:700,400"/>
 
 	<link rel="canonical" href="{{ $page->getUrl() }}"/>
 	<meta name="referrer" content="origin-when-cross-origin"/>
@@ -49,7 +49,7 @@
 	<article class="post">
 
 		<header class="post-header">
-			<a class="blog-logo" href="http://www.loveforlinden.com/">
+			<a class="blog-logo" href="https://www.loveforlinden.com/">
 					<img src="/img/loveforlinden-logo-black.png" alt="Blog Logo"/>
 			</a>
 		</header>
@@ -87,7 +87,7 @@
 				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 			})();
 		</script>
-		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		<noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 	</article>
 

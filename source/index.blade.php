@@ -12,7 +12,7 @@ pagination:
 	<header class="site-head" style="background-image: url(/img/lindenwidewebdark.jpg)">
         <div class="vertical">
             <div class="site-head-content inner">
-                <a class="blog-logo" href="http://www.loveforlinden.com/"><img src="/img/loveforlinden-logo-white.png" alt="Love For Linden Logo" class="full-img"></a>
+                <a class="blog-logo" href="https://www.loveforlinden.com/"><img src="/img/loveforlinden-logo-white.png" alt="Love For Linden Logo" class="full-img"></a>
                 <h2 class="blog-description">Documenting our family's journey with our precious daughter Linden Grey as we walk through the first years of her life with Biliary Atresia.</h2>
             </div>
         </div>

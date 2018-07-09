@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'http://loveforlinden.com',
+    'baseUrl' => 'https://loveforlinden.com',
     'production' => false,
     'collections' => [
     	'posts' => [
