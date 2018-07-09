@@ -34,7 +34,7 @@ Each day seems a little more normal as we continue to stay here at RMDH. There a
 
 To help protect Linden, anyone that is sick or has been within the last 24 hours can't be around her. Of course you can't always guarantee this germ free utopia, especially when in public, so we are on strict instructions to keep her out of \"crowded spaces\" for the first 3 months post-transplant. In addition, any time Linden is out in the wild, she has to be wearing a mask, OR be inside a covered stroller **unless** she is in an area with free flowing air (a.k.a. outside). At first Linden didn't mind her mask too much, as long as it was only on for a while. She did beautifully on her first trip outside as you can see below.
 
-<iframe src=\"//player.vimeo.com/video/100561964?byline=0&amp;portrait=0&amp;title=0\" width=\"500\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/100561964?byline=0&title=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
 Unfortunately, wearing a mask gets old really quickly. Linden started biting them and ripping them off her face and crumpling them up after about half a day. We needed another option... thankfully we had a family friend contact us and let us know that she wanted to purchase a stroller for Linden that would allow us to cart the princess around without a mask on :) This was a huge blessing! Since then, we have been happily pushing Linden around in this pretty little pink buggy.

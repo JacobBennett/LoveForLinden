@@ -8,9 +8,7 @@ author: Jake Bennett
 summary: Trying to cover two days at once is a bit more difficult than one might think since so much happens in a day that it's hard to keep it straight. Here goes! Saturday Saturday was a good day with Linden. She was able to get all of the tubes that…
 ---
 
-<div id=\"video\"></div>
-
-<iframe src=\"//player.vimeo.com/video/100126864\" width=\"1000\" height=\"562\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/100126864?byline=0&title=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 Trying to cover two days at once is a bit more difficult than one might think since so much happens in a day that it's hard to keep it straight. Here goes!
 
